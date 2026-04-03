@@ -1,2 +1,3 @@
 # Ignore the phpCAS library
 phpCAS/*
+plaincas.settings.php
